@@ -1,7 +1,7 @@
 # Build
 
-cd src
-qmake
-make
-./EfimovDrone
+ cd src  
+ qmake  
+ make  
+ ./EfimovDrone  
 
