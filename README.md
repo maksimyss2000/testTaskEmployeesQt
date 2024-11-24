@@ -1,5 +1,5 @@
 # Build
-
+ sudo apt install qt5-qmake qtbase5-dev
  cd src  
  qmake  
  make  
